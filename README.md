@@ -17,7 +17,7 @@ The goal is to understand student progress, identify top performers, and summari
 - Sorting and Filtering
 - Charts: Pie Chart & Column Chart
 
-## 📈 Insights
+##  Insights
 - Identified top-performing students
 - Compared subject-wise averages
 - Displayed grade distribution visually
