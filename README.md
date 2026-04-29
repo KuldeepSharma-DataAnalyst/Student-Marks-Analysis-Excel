@@ -1,4 +1,4 @@
-# 📊 Student Marks Analysis (Excel Project)
+# 📊 Student Marks Analysis
 
 ##  Project Overview
 This Excel project analyzes student performance using data-driven techniques.  
